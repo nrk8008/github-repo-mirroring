@@ -28,3 +28,5 @@ This project automates syncing from a source GitHub repository to a target repos
 3. Add private key to source repo → GitHub Secret (`SSH_PRIVATE_KEY`)
 4. Push changes to `main` branch of source repo
 5. Workflow triggers and syncs to target repo
+6. GitHub Source repo : https://github.com/nrk8008/repo-source.git 
+7. GitHub Target repo : https://github.com/nrk8008/repo-target.git 
